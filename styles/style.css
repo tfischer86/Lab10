@@ -35,6 +35,11 @@ header img {
   top: 20px;
 }
 
+header img.left-side {
+  left: 15px;
+  right: unset;
+}
+
 header img:hover {
   cursor: pointer;
   opacity: 0.5;
